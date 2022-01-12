@@ -16,6 +16,7 @@ export const SearchInput = () => {
 
 const SContainer = styled.div`
   display: flex;
+
   align-items: center;
 `;
 
