@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { useLocation, userLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import { SearchInput } from "../molecules/SearchInput";
 import { UserCard } from "../organisms/user/UserCard";
 
